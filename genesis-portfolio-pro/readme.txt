@@ -2,7 +2,7 @@
 Contributors: nathanrice, studiopress, wpmuguru, nick_thegeek, bgardner, marksabbath, modernnerd, dreamwhisper, wpengine, osompress, esther_sola, nahuai
 Tags: genesis, portfolio, templates
 Requires at least: 4.4
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 5.6
 Stable tag: 1.3
 License: GPLv2 or later
